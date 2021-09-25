@@ -3,7 +3,4 @@ Break
 Bananas
 Eggs
 Cereal
-Ice cream
-Brocolli
-Cheez-Its
-Hand sanitizer
+Hand sanitizer               
