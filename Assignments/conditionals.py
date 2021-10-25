@@ -3,7 +3,8 @@
 question = input("Is today a good day?(y/n) ")
 
 if question == "y":
-    print("Yes it is.")
+    for x in range(10):
+        print("Yes it is.")
 elif question == "n":
-    print("No it is not.")
-    
+    for x in range(10):
+        print("No it is not.")
