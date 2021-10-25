@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # Second example of pinging from Python
-# By Sam on 10/7/21
+# By Sam on 10/10/21
 
 # Import necessary python modules
 import platform
 import os
 
 # Assign IP address
-ip = "127.0.0.1"
+ip = "128.0.0.1"
 # Find current OS
 current_os = platform.system().lower()
 # Craft ping command based on OS
